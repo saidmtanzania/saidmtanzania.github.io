@@ -7,8 +7,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 100vh;
-    min-height: 100vh;
+    min-width: auto;
+    min-height: 100%;
     background: #607d8b;
 }
 .print img{
@@ -19,9 +19,9 @@ body{
     margin-top: 80px;
     
 }
-.container{
+.container1{
     position: relative;
-    top: 50px;
+    top: 150px;
 }
 .cup{
     position: relative;

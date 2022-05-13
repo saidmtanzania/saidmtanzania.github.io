@@ -6,11 +6,26 @@ body{
   margin: 0;
   padding: 0;
 }
-.nav{
+header{
+  text-align: center;
+  padding: 32px;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+.column{
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+.nav-brand{
+  position: absolute;
+  padding: 100px;
+} 
+.nav-item{
   display: flex;
   background-color: lightsteelblue;
 }
-.nav-brand{
-  display: flex;
-  justify-self: center;
-}
+

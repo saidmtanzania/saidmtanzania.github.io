@@ -6,3 +6,11 @@ body{
   margin: 0;
   padding: 0;
 }
+.nav{
+  display: flex;
+  background-color: lightsteelblue;
+}
+.nav-brand{
+  display: flex;
+  justify-self: center;
+}

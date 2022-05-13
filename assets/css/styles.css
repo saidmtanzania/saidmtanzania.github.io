@@ -21,11 +21,11 @@ header{
   padding: 0 4px;
 }
 .nav-brand{
-  position: absolute;
-  padding: 100px;
+  display: flex;
 } 
 .nav-item{
   display: flex;
   background-color: lightsteelblue;
+  list-style: none;
 }
 

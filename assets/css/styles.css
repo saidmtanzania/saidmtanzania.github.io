@@ -10,6 +10,9 @@ header{
   text-align: center;
   padding: 32px;
 }
+.nav{
+  background-color: lightsteelblue;
+}
 .nav-brand{
   display: flex;
 } 
